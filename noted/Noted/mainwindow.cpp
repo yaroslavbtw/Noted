@@ -287,6 +287,7 @@ void MainWindow::on_addType_clicked()
 void MainWindow::on_noteList_doubleClicked(const QModelIndex &index)
 {
     QString content = ui->noteList->currentItem()->text();
+    this->prevStr = ui->noteList->currentItem()->text();
     ui->addType->setEnabled(false);
     ui->dayT->setEnabled(false);
     ui->impT->setEnabled(false);
@@ -361,11 +362,11 @@ void MainWindow::on_applyButton_clicked()
     ui->datePlanned->setEnabled(false);
     ui->planLabel->setEnabled(false);
 
-    QString head = ui->headerLine->text();
-
-    query.exec("SELECT * FROM notes_" + loginedUser.strId + " WHERE header='" + head + "'");
+    query.exec("SELECT * FROM notes_" + loginedUser.strId + " WHERE header='" + this->prevStr + "'");
     query.next();
-
+    qDebug() << query.record().value("id").toString();
+    qDebug() << query.lastQuery();
+    QString head = ui->headerLine->text();
     QString note_id = query.record().value("id").toString();
 
     QString info = ui->textBrowser->toPlainText();

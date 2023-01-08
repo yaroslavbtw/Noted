@@ -142,6 +142,7 @@ private:
     User loginedUser;
     QPushButton **listBtn;
     QPushButton *currentBtn;
+    QString prevStr;
 };
 
 #endif // MAINWINDOW_H
