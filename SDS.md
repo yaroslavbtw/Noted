@@ -22,7 +22,7 @@
 
 Диаграмма программного обеспечения для создания заметок:
 
-![](variants_of_use.jpg)
+![](files/diagramms_for_SDS/variants_of_use.jpg)
 
 ### 2.1 Описание вариантов использования 
 
@@ -54,25 +54,25 @@
 # Диаграммы активностей
 
 1. Добавление новой заметки 
-![](activity_diagramm.jpg)
+![](files/diagramms_for_SDS/activity_diagramm.jpg)
 
 2. Изменение заметки
-![](activity_diagramm2.jpg)
+![](files/diagramms_for_SDS/activity_diagramm2.jpg)
 
 3. Добавление нового типа 
-![](activity_diagramm3.jpg)
+![](files/diagramms_for_SDS/activity_diagramm3.jpg)
 
 # Диаграммы последовательностей
 
-![](sequence_diagramm.jpg)
+![](files/diagramms_for_SDS/sequence_diagramm.jpg)
 
 # Диаграммы состояний
 
-![](consistance_diagramm.jpg)
+![](files/diagramms_for_SDS/consistance_diagramm.jpg)
 
 # Диаграмма классов
 
-![](class_diagramm.jpg)
+![](files/diagramms_for_SDS/class_diagramm.jpg)
 
 **Описание диаграммы классов.**
 
@@ -136,7 +136,7 @@
   
 # Диаграмма компонентов и развертывания
 
-![](deployment_diagram.jpg)
+![](files/diagramms_for_SDS/deployment_diagram.jpg)
 
 # Описание хранения данных программы  
 
