@@ -1,0 +1,38 @@
+QPushButton {
+    background-color: #c0c0c0;
+    border-radius: 10px;
+    border: black;
+}
+
+QPushButton:pressed {
+    /*color: #111;*/
+    border: 2px solid #3873d9;
+    background: #9a9a9a;
+}
+
+QLabel{
+    border-radius: 50%
+}
+
+QPushButton:checked {
+    color: black;
+}
+
+QPushButton#addType{
+    text-align: left;
+}
+
+QToolButton {
+    background-color: #c0c0c0;
+    border-radius: 10px;
+    border: black;
+}
+
+QToolButton:pressed {
+    border: 2px solid #3873d9;
+    background: #9a9a9a;
+}
+
+QToolButton:checked {
+    color: black;
+}
