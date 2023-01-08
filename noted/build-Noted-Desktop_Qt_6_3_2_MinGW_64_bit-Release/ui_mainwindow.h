@@ -115,7 +115,7 @@ public:
         MainWindow->setMinimumSize(QSize(922, 599));
         MainWindow->setMaximumSize(QSize(922, 599));
         QIcon icon;
-        icon.addFile(QString::fromUtf8("../build-Noted-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/2109008.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon.addFile(QString::fromUtf8("../build-Noted-Desktop_Qt_6_3_2_MinGW_64_bit-Debug/debug/2109008.png"), QSize(), QIcon::Normal, QIcon::Off);
         MainWindow->setWindowIcon(icon);
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));
