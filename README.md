@@ -22,6 +22,6 @@
 
 ## Разработчики
 
-[yarik][https://github.com/yaroslavbtw] - разработка приложения.
+[yarik](https://github.com/yaroslavbtw) - разработка приложения.
 
-[xnx][https://github.com/xaritoshaxnx] - помощь в разработке, дизайн, создание документации.
+[xnx](https://github.com/xaritoshaxnx) - помощь в разработке, дизайн, создание документации.
