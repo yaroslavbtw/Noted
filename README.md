@@ -1,7 +1,7 @@
 # Noted
 
 <p align="center">
-  <img src="files/pictures/notedpic.png" alt="Preview icon" width="100"/>
+  <img src="files/pictures/notedpic.png" alt="Preview icon" width="200"/>
 </p>
 
 ## Описание
@@ -11,6 +11,16 @@
 Позволяет создавать, редактировать и сортировать заметки, а также назначать напоминания на запланированные события.
 
 Приложение имеет понятный и простой интерфейс.
+
+## Документация
+
+[SRS](https://github.com/yaroslavbtw/Noted/blob/main/SRS.md)
+
+[SDS](https://github.com/yaroslavbtw/Noted/blob/main/SDS.md)
+
+[Тестирование](https://github.com/yaroslavbtw/Noted/blob/main/Testing.md)
+
+[Лицензия](https://github.com/yaroslavbtw/Noted/blob/main/License.txt)
 
 ## Установка
 
