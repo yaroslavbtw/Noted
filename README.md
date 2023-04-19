@@ -18,6 +18,8 @@
 
 [SDS](https://github.com/yaroslavbtw/Noted/blob/main/SDS.md)
 
+[Сгенерированная Документация](https://github.com/yaroslavbtw/Noted/blob/main/html/index.html)
+
 [Тестирование](https://github.com/yaroslavbtw/Noted/blob/main/Testing.md)
 
 [Лицензия](https://github.com/yaroslavbtw/Noted/blob/main/License.txt)
