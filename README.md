@@ -18,7 +18,7 @@
 
 [SDS](https://github.com/yaroslavbtw/Noted/blob/main/SDS.md)
 
-[Сгенерированная Документация](https://github.com/yaroslavbtw/Noted/blob/main/html/index.html)
+[Сгенерированная Документация](https://raw.githack.com/yaroslavbtw/Noted/main/html/index.html)
 
 [Тестирование](https://github.com/yaroslavbtw/Noted/blob/main/Testing.md)
 
