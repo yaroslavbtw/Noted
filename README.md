@@ -36,4 +36,6 @@
 
 [yarik](https://github.com/yaroslavbtw) - разработка приложения.
 
-[xnx](https://github.com/xaritoshaxnx) - помощь в разработке, дизайн, создание документации.
+[xnx](https://github.com/xaritoshaxnx) - помощь в разработке приложения.
+
+[ilya](https://github.com/Ilyashall) - помощь в разработке приложения.
